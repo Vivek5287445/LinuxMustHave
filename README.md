@@ -2,31 +2,33 @@
 A List of must have softwares, apps and themes for linux.
 
 
-Theme
+## Theme
 -----
 
-#Arc theme
+### Arc theme
 https://github.com/horst3180/Arc-theme
 
 --
 
-##Softwares
+## Softwares
 
-###Conky
+---
 
+### Conky
 
-#installation
 apt-add-repository ppa:teejee2008/ppa
 apt update
 apt install conky-manager
 
-#get more conky widgets
+#### get more conky widgets
 https://www.deviantart.com/
 
+---
 
-###screen Recording
+### Screen Recording
 
-####Green Recorder
+
+#### Green Recorder
 https://github.com/foss-project/green-recorder
 
---
+---
