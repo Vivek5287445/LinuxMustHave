@@ -16,7 +16,9 @@ https://github.com/horst3180/Arc-theme
 ### Conky
 
 apt-add-repository ppa:teejee2008/ppa
+
 apt update
+
 apt install conky-manager
 
 #### get more conky widgets
