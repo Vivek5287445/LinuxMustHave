@@ -10,6 +10,16 @@ https://github.com/horst3180/Arc-theme
 
 ---
 
+
+## Icons
+
+
+### Flat Remix
+
+https://github.com/daniruiz/Flat-Remix
+
+---
+
 ## Softwares
 
 
